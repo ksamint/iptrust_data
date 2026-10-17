@@ -1,0 +1,704 @@
+{
+  "checked_on": "2026-10-17",
+  "qpdf_version": "12.4.2",
+  "method": "Full pdftotext -layout byte equality; page-count equality; first/middle/last PNG render byte equality at max dimension 900px",
+  "summary": {
+    "documents": 29,
+    "original_bytes": 140157502,
+    "published_bytes": 125606411,
+    "reduction_percent": 10.38
+  },
+  "files": [
+    {
+      "id": "5e42cfcd811e0707",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "4b18cb79da0da9eb795091760b1aaa91ee7df17c75be4a2845c0d550351ae269"
+        },
+        {
+          "page": 16,
+          "identical": true,
+          "png_sha256": "70408ef91f424710dcad7910285d04e2c2aa65672f7f913a8349bf9ee4236bc0"
+        },
+        {
+          "page": 31,
+          "identical": true,
+          "png_sha256": "0b7e760abd5950493443ad708bf9fa0e99ab8e9a482594e3b8d38bae04482f82"
+        }
+      ]
+    },
+    {
+      "id": "9d539e475e40802c",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "9bb21ce23b30069778504126a0618af361b57903c78b9a5a6064ce6bbc8336e9"
+        },
+        {
+          "page": 47,
+          "identical": true,
+          "png_sha256": "15cea97d392e678529dbc305bf581a4396921c449a473915d140d31f09aac598"
+        },
+        {
+          "page": 94,
+          "identical": true,
+          "png_sha256": "ab06ecce7b690797f598bb5edcef1bc90389404099ae433c7d8e56c953a1ffde"
+        }
+      ]
+    },
+    {
+      "id": "55edc92868a4531f",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "c89d576f77a7e8d2db1372e8f79c79f6b11879f774ae5a8f1de1339b7e284a48"
+        },
+        {
+          "page": 20,
+          "identical": true,
+          "png_sha256": "898d10fe73f9f6b0a04f1737527ed6f2fa09f035d58e60e4c371a93f50a450d4"
+        },
+        {
+          "page": 39,
+          "identical": true,
+          "png_sha256": "fcfb8dcfa9dc51726653f673468293f0b134926aff8f9b203f19db8f9f723ea8"
+        }
+      ]
+    },
+    {
+      "id": "d04dd848936b3ec1",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "fc2beaa5cdb6609752989682c1f3925bea6f5da6223320c5ac211f513b1732da"
+        },
+        {
+          "page": 203,
+          "identical": true,
+          "png_sha256": "1ea7342f9e7b709771e9252f02b22496987de8f6d3c41e85d46c853049028760"
+        },
+        {
+          "page": 406,
+          "identical": true,
+          "png_sha256": "1e31eb4b46b9160af220faf112e5d195447cbca0f77d8dea665c6191510d2ddf"
+        }
+      ]
+    },
+    {
+      "id": "67d113a75e9f83c4",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "790e20002d053ac758a898d53f204a0d442e819a8076c370ee60cbacf03d6305"
+        },
+        {
+          "page": 17,
+          "identical": true,
+          "png_sha256": "b0c7481e984abcd194d789b1aa4a59edfdec011bcc8d1070667ac4ef51ef2736"
+        },
+        {
+          "page": 33,
+          "identical": true,
+          "png_sha256": "7d48625fa49fda93f53f5445b62179c19a7b7a193bf64868506405d58dcaf065"
+        }
+      ]
+    },
+    {
+      "id": "38b438b1c216e900",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "7bf5532a4dbb5b69fbf45cd35ebdc26287f4a553835d2c578f8778cc27f278ef"
+        },
+        {
+          "page": 47,
+          "identical": true,
+          "png_sha256": "127871bcb3d9e766288652316422333319308ae6fdd376bc8684c463310edad1"
+        },
+        {
+          "page": 94,
+          "identical": true,
+          "png_sha256": "ab06ecce7b690797f598bb5edcef1bc90389404099ae433c7d8e56c953a1ffde"
+        }
+      ]
+    },
+    {
+      "id": "ff133790ab62dd9a",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "48c506a51eaa813797eeb0710d07a7d53100f7471f95c1bb6ebc971dffd06746"
+        },
+        {
+          "page": 19,
+          "identical": true,
+          "png_sha256": "ef55455dba3bd55b2d77b44814eb1d18dc98f39ee11fecfc9030f677e07a4641"
+        },
+        {
+          "page": 38,
+          "identical": true,
+          "png_sha256": "826725da6ba2de85256308bbadb6982401c46fd54cdb7bf83d4f8c8411b35407"
+        }
+      ]
+    },
+    {
+      "id": "18334e54505c0667",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "b66857ebe003c54f0d8144fcbd1a33096509b6db4e8b2a692179776712c8f5a8"
+        },
+        {
+          "page": 135,
+          "identical": true,
+          "png_sha256": "0c7924c1bc7a3127e313b33eee5b4e7fe34d00ea3b72879e818eba4d27840e73"
+        },
+        {
+          "page": 270,
+          "identical": true,
+          "png_sha256": "ae1a4726e12e677b348875f8431ff9f39de210000c2c8d673b522b90d8cba72b"
+        }
+      ]
+    },
+    {
+      "id": "44b8794212bcd7e6",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "74bf7030867b4c6e65b823f6cc31e48eefaa3d89e8b686491fb2749c896bf2ee"
+        },
+        {
+          "page": 17,
+          "identical": true,
+          "png_sha256": "edfd3316de05be85cccc2725183e5277b101b85d775c5e7de19bf86106bdc08f"
+        },
+        {
+          "page": 33,
+          "identical": true,
+          "png_sha256": "afc7da34504b84b79bee447ffea7085ea2ffdad2b9f081dc50a1cc12ed6640e9"
+        }
+      ]
+    },
+    {
+      "id": "c056bc5294d2ab37",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "65561b847a21c041d7500c2139df81e7e286e51c756efdad359bb45c4232b828"
+        },
+        {
+          "page": 47,
+          "identical": true,
+          "png_sha256": "fa81578911ab95f2fb26f3149a57a0f937dc61f4b3375406b8aed9abbc8fb388"
+        },
+        {
+          "page": 94,
+          "identical": true,
+          "png_sha256": "ab06ecce7b690797f598bb5edcef1bc90389404099ae433c7d8e56c953a1ffde"
+        }
+      ]
+    },
+    {
+      "id": "bcc55833331a86de",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "e5a98ad46e325f5e716b0258d06d79f0f0a3b9f8aa50c095474fa296c2143a95"
+        },
+        {
+          "page": 18,
+          "identical": true,
+          "png_sha256": "1811e58888edd5c4d609deb198e16e5bf9562e3f838afee652af68a31282be87"
+        },
+        {
+          "page": 35,
+          "identical": true,
+          "png_sha256": "07b8afd4273cd0ceeb3b68bc347e7339e581598c098f0c8e0f087da8ac1793c0"
+        }
+      ]
+    },
+    {
+      "id": "c246281d868c1666",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "3a98061fad746484f78b4b726ca80bfc6848476d41b0f989dfcfc044b54004a3"
+        },
+        {
+          "page": 143,
+          "identical": true,
+          "png_sha256": "98c6554add24ad6af5c08118fb317151645f8b6e43ba199c78064b225d5cfd94"
+        },
+        {
+          "page": 286,
+          "identical": true,
+          "png_sha256": "3a95305cbd8c32a9e58a96241664f540fb59130da4457b69385d87848cd7361b"
+        }
+      ]
+    },
+    {
+      "id": "f3378e39a7496d06",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "04b98a126f4b04bcfdf92bc88d1c686cc116b9bc73e1217e1a094b41de179647"
+        },
+        {
+          "page": 16,
+          "identical": true,
+          "png_sha256": "6273ee8e37929adbb2fb5e75f1c6445d42fc4fce4d3aadd87c83566d4578c53c"
+        },
+        {
+          "page": 31,
+          "identical": true,
+          "png_sha256": "98f1cef73518a94bb06945c0e3f1215c25157f154fe407d5b63d2012e0cf8990"
+        }
+      ]
+    },
+    {
+      "id": "203d45fd8ac2ef73",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "68eea1bb5d9e8966af81361f115c0eb23ef81f5c35bfccd5357540c7b264ad0a"
+        },
+        {
+          "page": 45,
+          "identical": true,
+          "png_sha256": "597503bb09c6c925e07ef924d7149db80f8323c453777d51e66341bcec5f07a6"
+        },
+        {
+          "page": 90,
+          "identical": true,
+          "png_sha256": "0de2c1c920b3a01e0791a87e9f57dddf1614ffd0e73d99bc107eb31eb010078c"
+        }
+      ]
+    },
+    {
+      "id": "dc71b1da1929be90",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "6d39331787f8e99ef054212e9ab3499446934f27e20b003d41ae2a8ddb4fa829"
+        },
+        {
+          "page": 44,
+          "identical": true,
+          "png_sha256": "bc9a27e2e143ef47ee3a3430d78e569244a2f674da0946aa34a0a38f8dcb7105"
+        },
+        {
+          "page": 88,
+          "identical": true,
+          "png_sha256": "7ac2576185f9e22ce8063e0d3b04f1cb2f3f6b52e7d8dffa3d299071dc410f5f"
+        }
+      ]
+    },
+    {
+      "id": "35c12abf2e2b5a5d",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "accb32f1642f7a91a998399cb300f11d00d536785d4aa955ea8e30e55f1b0ae3"
+        },
+        {
+          "page": 54,
+          "identical": true,
+          "png_sha256": "d474b4a0d4010574b4f0eca4d41341f9bbc2fd01e9622d945b51c1314c6f81fd"
+        },
+        {
+          "page": 108,
+          "identical": true,
+          "png_sha256": "0764056bc10425dd83a63cebe445f169ccee606696b25fbf52b22b009f56c98e"
+        }
+      ]
+    },
+    {
+      "id": "c00ac6b5ba41f47f",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "d970fd34cf38c1d1b7890e831e189346eeac57ecfdb8a5b8b3b88a0dbf4b2b4f"
+        },
+        {
+          "page": 6,
+          "identical": true,
+          "png_sha256": "cd5b169d1915ebb567059bb6325bc71c75aca3ecfacad890eb69f6753ba845df"
+        },
+        {
+          "page": 11,
+          "identical": true,
+          "png_sha256": "22cb030e4f878f6bdc1b81478c9d61363b91f9fcd222e44f517a542a192d6a60"
+        }
+      ]
+    },
+    {
+      "id": "8707298aa379be1f",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "e10c0618ef2d29097e167634fe785d96c838dae14677641d5872f26dd37fcdfa"
+        },
+        {
+          "page": 26,
+          "identical": true,
+          "png_sha256": "05be21b0f106757bd6bc82384f3c56acf1af15381a68bdeddee547a9e65d676e"
+        },
+        {
+          "page": 52,
+          "identical": true,
+          "png_sha256": "c224747936a0b167699d04da50a315ef327559b38f838368515bd939575f1688"
+        }
+      ]
+    },
+    {
+      "id": "d2f12e2507950fe0",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "f3e503769a890d80fca74429d55444b824a0e4b6d6ea63dbdc7f19dac7ad20df"
+        },
+        {
+          "page": 4,
+          "identical": true,
+          "png_sha256": "dfd62648111fba6b9460ed89b992001ed0901e4f3131e4579a249eead16cbf0a"
+        },
+        {
+          "page": 7,
+          "identical": true,
+          "png_sha256": "7e91aa83e721d46217a042b3894eca9f46f0d4735d948eb68fc4402282b70856"
+        }
+      ]
+    },
+    {
+      "id": "16f07d4abb125061",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "faff308c7418df55ded501646c70a6c0fc35911dfd962492002a3e5b8722d064"
+        },
+        {
+          "page": 18,
+          "identical": true,
+          "png_sha256": "3e8117d6f835f3515b35abe0ba9e2a555f173ac1a8c6742a3d601f16ee408ca2"
+        },
+        {
+          "page": 36,
+          "identical": true,
+          "png_sha256": "68d8b998cb0b28c2aac84f430cad1ef98ae3f433d49e23a81544f367cba49537"
+        }
+      ]
+    },
+    {
+      "id": "7a7fb74215d90034",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "0d16947d7b0c3bc717b869f018ca01f9a7cd26fe63a8ceef513b6c14b2b0fbcb"
+        },
+        {
+          "page": 2,
+          "identical": true,
+          "png_sha256": "9df2bd05e4642fd912841a5000542c44d87181840eedb8eace775645f653bcc6"
+        }
+      ]
+    },
+    {
+      "id": "0d1e13efedceab12",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "4d15ad48cf72ac87f2534598550a48c97d88df582200d51177be3358c4b909b2"
+        },
+        {
+          "page": 5,
+          "identical": true,
+          "png_sha256": "e11b971bb0733f84aa5898f3585b83158e80b2233909a8ae3f58ae4e49b6de80"
+        },
+        {
+          "page": 9,
+          "identical": true,
+          "png_sha256": "f6e58b9115991d22dc3b145e58bd70be98004dd15debb9e7f955f6e8c3cc8e34"
+        }
+      ]
+    },
+    {
+      "id": "54dc58eb1659a37f",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "b9e507e1229f933f48f0fcc4130cb0f6bcfd2cfc070074e27884e97236ca5aa9"
+        },
+        {
+          "page": 6,
+          "identical": true,
+          "png_sha256": "dae19c9e80b31822f35501cbf6b5c8f7d4e195b3afb0aeeccd5d20cb6294b272"
+        },
+        {
+          "page": 12,
+          "identical": true,
+          "png_sha256": "94e1be278ff52270e9958cd3f10e69f327f8727236f68996371eaff00ca3eb85"
+        }
+      ]
+    },
+    {
+      "id": "2f8215b9789a35d9",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "21887d75c5b7aaf06d2687cf60f1ead084aa02ab4dd04dcc9b45458376fa5d76"
+        },
+        {
+          "page": 15,
+          "identical": true,
+          "png_sha256": "8166d7a31a17b10b6834f9db0b393cdb1aa359f4ccbad7f15748f3697403433e"
+        },
+        {
+          "page": 29,
+          "identical": true,
+          "png_sha256": "780ef0d15d6c67736d29a902417f2009523621e0a114791ce79a3a0cabf59aca"
+        }
+      ]
+    },
+    {
+      "id": "8a75a5134540cf08",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "1cd060e5d66ff02a2b133a16e38dd533e779e7d42015fff1d254c380bb0cae6e"
+        },
+        {
+          "page": 7,
+          "identical": true,
+          "png_sha256": "f86375a110a9330cb27f2bebc9e494cf5bea41bbe2552471fdd957949b57e430"
+        },
+        {
+          "page": 14,
+          "identical": true,
+          "png_sha256": "2d71606dc98a239b3898f4461362d5f40cdd2c66187bff42d528bd51755cd639"
+        }
+      ]
+    },
+    {
+      "id": "7faae32e0573dcda",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "9dace1cb1127c42b27f3ebc0249e6b707774f0f4140d28427c2895de8222dcd9"
+        },
+        {
+          "page": 12,
+          "identical": true,
+          "png_sha256": "7948c5cfbe3f820272f2997523b827a819034e2a16aba85f742cfe4a8dd343f5"
+        },
+        {
+          "page": 24,
+          "identical": true,
+          "png_sha256": "e12e63b1c3d11ef02b544d0b583a22b8248a449a5e37d9c487340cd4772336cd"
+        }
+      ]
+    },
+    {
+      "id": "6a593941cbb49d3f",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "3ca2c0d55b3608a60bfc094e1a1e07d52fa77811cc5418e85e9310b38bd677f7"
+        },
+        {
+          "page": 2,
+          "identical": true,
+          "png_sha256": "05d5104c5625bf559bb60e1edd567182b04ba8de4a63ee001b7df09008de0069"
+        },
+        {
+          "page": 4,
+          "identical": true,
+          "png_sha256": "f9d00465d12f9818f7a773f9aae63f623f085acf30e5ea2e9df4aeab19fb9caa"
+        }
+      ]
+    },
+    {
+      "id": "8599856b251679a0",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "658c471fda718e64fc975f98da56f202a3389b3bef0d20892b931f7f504ea93d"
+        },
+        {
+          "page": 35,
+          "identical": true,
+          "png_sha256": "be7f5d6eed178d096ba9f8ba690dd98c0ae8c7b5bb7205fb2d8a1f3ace8f60f3"
+        },
+        {
+          "page": 70,
+          "identical": true,
+          "png_sha256": "8d5f431b01642e68f2db73549e70ce280a3876fb990f373a7d7d031ca9bdb835"
+        }
+      ]
+    },
+    {
+      "id": "5fcc755ea1227106",
+      "qpdf_check_exit": 0,
+      "qpdf_warnings": "",
+      "text_identical": true,
+      "page_count_identical": true,
+      "render_checks": [
+        {
+          "page": 1,
+          "identical": true,
+          "png_sha256": "907fa5d254d69d6c70ccf222dde884a018511d7e5af142b87dd78c622a9f54a9"
+        },
+        {
+          "page": 34,
+          "identical": true,
+          "png_sha256": "5e0f90602428e5b9de6cbb0a92521df12b8cbc555f2591079d7dd7b53f137901"
+        },
+        {
+          "page": 67,
+          "identical": true,
+          "png_sha256": "2ae9dd6e281baeca7363c1ee643c3578e9fc5496514bc44010c841ff830ae3d0"
+        }
+      ]
+    }
+  ]
+}
